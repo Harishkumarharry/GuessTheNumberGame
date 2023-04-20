@@ -12,6 +12,7 @@ from random import randint
 from replit import clear
 from art import logo
 
+
 def numberCheck(player, number):
     if player < number:
         print("Too low.")
